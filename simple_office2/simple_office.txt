@@ -1,0 +1,49 @@
+Objectif
+"""
+XYZ company is a fast-growing company in Eastern Australia with more than 2 million customers globally. The company deals with selling and buying of food items, which are basically operated from the headquarters. The company is intending to open a branch near the local village Bonalbo. Thus, the company requires young IT graduates to design the network for the branch. The network is intended to operate separately from the HQ network.
+
+Being a small network, the company has the following requirements during implementation;
+
+a) One router and one switch to be used (all CISCO products).
+b) 3 departments (Admin/IT, Finance/HR and Customer service/Reception)
+c) Each department is required to be in different VLANS.
+d) Each department is required to have wireless network for the users.
+e) Host devices in the network are required to obtain IPv4 address automatically.
+f) Devices in all the departments are required to communicate with each other.
+
+Assume the ISP gave out a base network of 192.168.1.0, you as the young network engineer who has been hired, design and implement a network considering the above requirements.
+"""
+
+BASE network = 192.168.1.0
+
+Number of subnets = 3
+
+2^n=3==->n2
+
+Class C= 255.255.255.0 -> 11111111.11111111.1111111.00000000
+
+After borrowing 2 bits
+
+New binary= 11111111.11111111.1111111.11000000
+
+New subnet mask = 255.255.255.192
+
+Block size=64
+
+1e
+
+Network ID= 192.168.1.0
+Broadcast ID= 192.168.1.63
+Host range= 192.168.1.1 - 192.168.1.62
+
+2e
+
+Network ID= 192.168.1.64
+Broadcast ID= 192.168.1.127
+Host range= 192.168.1.65 - 192.168.1.126
+
+3e
+
+Network ID= 192.168.1.128
+Broadcast ID= 192.168.1.191
+Host range= 192.168.1.129 - 192.168.1.190
