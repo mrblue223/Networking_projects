@@ -2,6 +2,8 @@
 
 This repository outlines the design and configuration for a simple office network, featuring two departments: ACCOUNTS and DELIVERY. The project focuses on practical application of IP addressing, subnetting, and basic network device configuration to ensure inter-departmental connectivity.
 
+![simple_network](simple_office_network.png)
+
 ## Network Design Objectives
 
 The primary goals for this network design are:
