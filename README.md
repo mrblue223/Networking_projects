@@ -6,14 +6,9 @@ This repository houses various network design and configuration projects created
 
 * [About Packet Tracer](#about-packet-tracer)
 * [Getting Started](#getting-started)
-    * [Prerequisites](#prerequisites)
-    * [Cloning the Repository](#cloning-the-repository)
-    * [Opening Projects](#opening-projects)
-* [Project Structure](#project-structure)
-* [Available Projects](#available-projects)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+* [Prerequisites](#prerequisites)
+* [Cloning the Repository](#cloning-the-repository)
+
 
 ## About Packet Tracer
 
@@ -32,3 +27,5 @@ To open and interact with the project files in this repository, you'll need **Ci
 To get a local copy of these projects, clone this repository to your machine:
 
 ```bash
+git clone https://github.com/mrblue223/Networking_projects.git
+cd Networking_projects
