@@ -1,5 +1,8 @@
 # Network Design and Implementation for XYZ Company Branch
 
+![simple_network](simple_office2.png)
+
+
 ## Project Overview
 
 This repository contains the design and implementation of a small-scale network for a new branch of XYZ Company located in Bonalbo, Eastern Australia. The project addresses specific requirements for departmental segmentation, wireless access, automatic IP addressing, and inter-departmental communication, operating independently from the company's headquarters network.
