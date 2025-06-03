@@ -1,7 +1,5 @@
 # Vic Modern Hotel Network Design
 
-This repository contains the Cisco Packet Tracer project file for the Vic Modern Hotel network, as demonstrated in the YouTube video: [Packet Tracer Hotel Network Design](https://youtu.be/z4uTWsXbZaM).
-
 ## Table of Contents
 - [Overview](#overview)
 - [Network Topology](#network-topology)
