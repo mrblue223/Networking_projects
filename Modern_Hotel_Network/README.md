@@ -1,5 +1,7 @@
 # Vic Modern Hotel Network Design
 
+![Modern Hotel Network Diagram](modern_hotal_network.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Network Topology](#network-topology)
